@@ -4,3 +4,7 @@
 *.sublime-workspace
 test_case.html
 data/nba*
+
+gen/bbgm.css
+gen/app.js
+gen/app.js.map
